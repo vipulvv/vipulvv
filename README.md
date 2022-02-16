@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vipul Vaidya
+- 👀 I’m interested in Kubernetes, AWS, Linux Networking & Storage 
+- 🌱 I’m currently learning Python scripting, Terraform
+- 💞️ I’m looking to collaborate on Kubernetes issues.
