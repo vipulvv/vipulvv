@@ -9,5 +9,3 @@
 💼 Actively driving the evolution of infrastructure as code practices.
 
 💡 Always seeking innovative solutions to complex technical challenges.
-
-🌐 Looking to collaborate on Kubernetes issues. Check out my latest projects and contributions below!
